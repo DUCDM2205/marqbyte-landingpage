@@ -1,0 +1,48 @@
+# Ảnh demo
+
+Ảnh minh họa từ Unsplash; không phải hình ảnh hay chứng thực của thương hiệu giả lập. Khi triển khai thật, thay bằng hình được khách hàng cho phép sử dụng.
+
+- images/giao-duc-0.jpg — Nguồn file: https://images.unsplash.com/photo-1503676260728-1c00da094a0b
+- images/giao-duc-1.jpg — Nguồn file: https://images.unsplash.com/photo-1516321318423-f06f85e504b3
+- images/giao-duc-2.jpg — Nguồn file: https://images.unsplash.com/photo-1523240795612-9a054b0db644
+- images/suc-khoe-0.jpg — Nguồn file: https://images.unsplash.com/photo-1576091160399-112ba8d25d1d
+- images/suc-khoe-1.jpg — Nguồn file: https://images.unsplash.com/photo-1505751172876-fa1923c5c528
+- images/suc-khoe-2.jpg — Nguồn file: https://images.unsplash.com/photo-1538108149393-fbbd81895907
+- images/lam-dep-0.jpg — Nguồn file: https://images.unsplash.com/photo-1540555700478-4be289fbecef
+- images/lam-dep-1.jpg — Nguồn file: https://images.unsplash.com/photo-1562322140-8baeececf3df
+- images/lam-dep-2.jpg — Nguồn file: https://images.unsplash.com/photo-1608571423902-eed4a5ad8108
+- images/bat-dong-san-0.jpg — Nguồn file: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0
+- images/bat-dong-san-1.jpg — Nguồn file: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d
+- images/bat-dong-san-2.jpg — Nguồn file: https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85
+- images/cong-nghe-0.jpg — Nguồn file: https://images.unsplash.com/photo-1497366754035-f200968a6e72
+- images/cong-nghe-1.jpg — Nguồn file: https://images.unsplash.com/photo-1551288049-bebda4e38f71
+- images/cong-nghe-2.jpg — Nguồn file: https://images.unsplash.com/photo-1522071820081-009f0129c71c
+- images/am-thuc-0.jpg — Nguồn file: https://images.unsplash.com/photo-1414235077428-338989a2e8c0
+- images/am-thuc-1.jpg — Nguồn file: https://images.unsplash.com/photo-1442512595331-e89e73853f31
+- images/am-thuc-2.jpg — Nguồn file: https://images.unsplash.com/photo-1509440159596-0249088772ff
+- images/du-lich-0.jpg — Nguồn file: https://images.unsplash.com/photo-1470770841072-f978cf4d019e
+- images/du-lich-1.jpg — Nguồn file: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b
+- images/du-lich-2.jpg — Nguồn file: https://images.unsplash.com/photo-1507525428034-b723cf961d3e
+- images/the-thao-0.jpg — Nguồn file: https://images.unsplash.com/photo-1517836357463-d25dfeac3438
+- images/the-thao-1.jpg — Nguồn file: https://images.unsplash.com/photo-1544367567-0f2fcb009e0b
+- images/the-thao-2.jpg — Nguồn file: https://images.unsplash.com/photo-1518611012118-696072aa579a
+- images/ban-le-0.jpg — Nguồn file: https://images.unsplash.com/photo-1490481651871-ab68de25d43d
+- images/ban-le-1.jpg — Nguồn file: https://images.unsplash.com/photo-1513506003901-1e6a229e2d15
+- images/ban-le-2.jpg — Nguồn file: https://images.unsplash.com/photo-1495474472287-4d71bcdd2085
+- images/dich-vu-0.jpg — Nguồn file: https://images.unsplash.com/photo-1503387762-592deb58ef4e
+- images/dich-vu-1.jpg — Nguồn file: https://images.unsplash.com/photo-1519389950473-47ba0277781c
+- images/dich-vu-2.jpg — Nguồn file: https://images.unsplash.com/photo-1497366811353-6870744d04b2
+- images/laptop.jpg — Nguồn file: https://images.unsplash.com/photo-1496181133206-80ce9b88a853
+- images/plants.jpg — Nguồn file: https://images.unsplash.com/photo-1416879595882-3373a0480b5b
+- images/pet.jpg — Nguồn file: https://images.unsplash.com/photo-1583337130417-3346a1be7dee
+- images/gift.jpg — Nguồn file: https://images.unsplash.com/photo-1513885535751-8b9238bd345a
+- images/piano.jpg — Nguồn file: https://images.unsplash.com/photo-1520523839897-bd0b52f945a0
+- images/dental.jpg — Nguồn file: https://images.unsplash.com/photo-1606811971618-4486d14f3f99
+- images/salad.jpg — Nguồn file: https://images.unsplash.com/photo-1512621776951-a57141f2eefd
+- images/camera.jpg — Nguồn file: https://images.unsplash.com/photo-1516035069371-29a1b244cc32
+- images/swim.jpg — Nguồn file: https://images.unsplash.com/photo-1560090995-01632a28895b
+- images/wedding.jpg — Nguồn file: https://images.unsplash.com/photo-1519741497674-611481863552
+- images/notebook.jpg — Nguồn file: https://images.unsplash.com/photo-1455390582262-044cdead277a
+- images/baby.jpg — Nguồn file: https://images.unsplash.com/photo-1519689680058-324335c77eba
+- images/ceramic.jpg — Nguồn file: https://images.unsplash.com/photo-1578749556568-bc2c40e68b61
+- images/sushi.jpg — Nguồn file: https://images.unsplash.com/photo-1579871494447-9811cf80d66c
