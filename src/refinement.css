@@ -1,0 +1,106 @@
+@import './fonts.css';
+/* v1.1 — local Vietnamese type and a continuous editorial canvas. */
+:root{--body-font:'Be Vietnam Pro','Segoe UI',Arial,sans-serif;--display-font:'Lora',Georgia,serif;font-family:var(--body-font);font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}
+body,input,button,select,textarea{font-family:var(--body-font)}
+h1,h2,h3{letter-spacing:-.035em;line-height:1.25}p{line-height:1.85}
+.demo-site{--paper:color-mix(in srgb,var(--wash) 28%,white);--soft:color-mix(in srgb,var(--wash) 60%,white);--hairline:color-mix(in srgb,var(--accent) 16%,transparent);font-family:var(--body-font);font-synthesis:none;background:var(--paper);--d-ink:#26302b;--d-muted:#68716c}
+.demo-site :is(input,button,select,textarea){font-family:var(--body-font)}
+.demo-site :is(h1,h2,h3){font-family:var(--body-font);letter-spacing:-.038em;line-height:1.24;font-weight:600}
+.demo-site :is(h1,h2,h3,p,button,summary){overflow-wrap:break-word;word-break:normal}
+.demo-site h1{padding-block:.1em;line-height:1.23;letter-spacing:-.045em}
+.demo-site :is(.hero-spa,.hero-hair,.hero-residence,.hero-interior,.hero-dining,.hero-coffee,.hero-retreat,.hero-travel,.hero-yoga,.hero-fashion) h1,
+.demo-site:is(.layout-4,.layout-5,.layout-6,.layout-7,.layout-10,.layout-11,.layout-12,.layout-13,.layout-15,.layout-17) .d-section h2,
+.demo-site .d-reviews blockquote{font-family:var(--display-font);font-weight:400;font-style:normal;letter-spacing:-.04em;line-height:1.35}
+.demo-site .hero-training h1{font-family:var(--body-font);font-weight:700;font-style:normal;line-height:1.2}
+.demo-site .demo-nav{background:var(--paper);border:0;padding-inline:6.5%;height:88px}
+.demo-site .demo-brand{font-weight:600!important;letter-spacing:-.6px}
+.demo-site .demo-brand small{line-height:1.4}
+.demo-site .demo-nav nav button{font-size:12px;min-height:44px}
+.demo-site .demo-nav-cta{border-color:var(--hairline);border-radius:100px;padding:11px 18px}
+.demo-site .demo-hero:not(.hero-hair):not(.hero-training):not(.hero-tech):not(.hero-dining):not(.hero-residence):not(.hero-creative){background:var(--paper)}
+.demo-site .demo-ribbon{background:transparent;color:var(--accent);border-block:1px solid var(--hairline);margin:0 6.5%;padding:22px 0;font-size:10px;letter-spacing:0;justify-content:space-between}
+.demo-site .demo-ribbon span{display:flex;align-items:center;gap:8px}
+/* Most sections share a canvas; offers and contact become the two narrative anchors. */
+.demo-site .d-section{background:var(--paper);color:var(--d-ink);padding:88px 7%;border:0;position:relative}
+.demo-site .d-section :is(p,li){color:var(--d-muted)}
+.demo-site .d-section-label{font-size:9px;font-weight:500;letter-spacing:1.3px;opacity:.8;margin-bottom:25px}
+.demo-site .d-section h2{font-size:clamp(30px,3.3vw,46px);line-height:1.35;max-width:730px;margin-bottom:28px}
+.demo-site .d-about{padding-top:96px;padding-bottom:68px}
+.demo-site .d-about-grid{gap:9%;align-items:start;border:0;padding-bottom:0}
+.demo-site .d-about-grid>div{padding-top:4px}
+.demo-site .d-about-grid p{font-size:14px;line-height:1.95}
+.demo-site .d-values{gap:4%;margin-top:42px;align-items:start;background:transparent}
+.demo-site .d-values>div{border:0;border-top:1px solid var(--hairline);border-radius:0;background:transparent;box-shadow:none;padding:25px 0;text-align:left}
+.demo-site .d-values>div>span{padding:0;background:none;font-size:11px;font-weight:500}
+.demo-site .d-values h3{font-size:18px;line-height:1.6;margin:17px 0 10px}
+.demo-site .d-values p{font-size:12px;line-height:1.95;max-width:300px}
+.demo-site .d-offers{background:var(--soft);border-radius:32px;margin:0 3%;padding:70px 4.25% 75px}
+.demo-site .d-section-head{align-items:center;gap:40px;margin-bottom:38px}
+.demo-site .d-tabs{border-bottom:1px solid var(--hairline);gap:20px}
+.demo-site .d-tabs button{background:none;border:0;border-radius:0;border-bottom:2px solid transparent;padding:11px 0;color:var(--d-muted);font-size:11px}
+.demo-site .d-tabs button[aria-selected=true]{background:none;border-color:var(--accent);color:var(--accent)}
+.demo-site .d-offer-grid{gap:30px;grid-template-columns:repeat(3,minmax(0,1fr));align-items:start}
+.demo-site .d-offer-grid article{padding:0;border:0;border-radius:0;box-shadow:none;background:none;transform:none}
+.demo-site .d-offer-grid article:nth-child(2){padding-top:0;transform:none}
+.demo-site .d-offer-grid .offer-img{border-radius:12px;overflow:hidden}
+.demo-site .d-offer-grid article .offer-img img{height:260px;object-fit:cover}
+.demo-site .d-offer-grid h3{font-size:21px;line-height:1.45;margin:23px 0 12px}
+.demo-site .d-offer-grid p{font-size:12px;line-height:1.95;margin-inline:0}
+.demo-site .d-offer-grid .d-link{margin-left:0;font-size:11px!important;line-height:1.7}
+.demo-site .d-process{padding-top:90px;padding-bottom:70px}
+.demo-site .d-steps{gap:5%;margin-top:35px}
+.demo-site .d-steps>div{border:0;border-top:1px solid var(--hairline);padding:25px 0 0}
+.demo-site .d-steps b{display:block;color:var(--accent);opacity:.7;font-size:26px;font-family:var(--display-font);font-weight:400}
+.demo-site .d-steps h3{font-size:18px;line-height:1.55;margin:20px 0 12px}
+.demo-site .d-steps p{font-size:12px;line-height:1.95}
+.demo-site .d-gallery{padding-top:50px;padding-bottom:60px}
+.demo-site .d-gallery .gallery-main{border-radius:18px}
+.demo-site .gallery-main>img{height:510px}
+.demo-site .gallery-main>div{left:24px;right:auto;bottom:24px;background:#ffffffef;border-radius:10px;padding:25px;max-width:360px;box-shadow:0 10px 40px #15291e08}
+.demo-site .gallery-main h3{font-family:var(--display-font);font-size:27px;font-weight:400;line-height:1.4}
+.demo-site .gallery-controls button{background:transparent;border-color:var(--hairline);width:44px;height:44px}
+.demo-site .d-plans{padding-top:65px;padding-bottom:65px}
+.demo-site .d-plan-grid{gap:22px;margin-top:36px}
+.demo-site .d-plan-grid article{background:none;border:0;border-top:1px solid var(--hairline);border-radius:0;padding:28px 0 20px;box-shadow:none}
+.demo-site .d-plan-grid article.recommended{background:var(--soft);border:0;border-top:2px solid var(--accent);padding:27px 24px 24px;border-radius:0 0 12px 12px}
+.demo-site .d-plan-grid h3{font-size:24px;line-height:1.5}
+.demo-site .d-plan-grid b{font-family:var(--display-font);font-size:32px;font-weight:400}
+.demo-site .d-plan-grid small{line-height:1.8}
+.demo-site .d-plan-grid ul{padding-block:10px}
+.demo-site .d-plan-grid li{line-height:1.8}
+.demo-site .d-reviews{padding-top:60px;padding-bottom:65px;border:0;max-width:1050px;margin:auto}
+.demo-site .d-reviews .d-section-label{font-size:8px;line-height:1.9}
+.demo-site .d-reviews blockquote{font-size:clamp(26px,3vw,39px);line-height:1.65}
+.demo-site .review-stars{opacity:.7;margin:15px 0 25px}
+.demo-site .d-faq{gap:10%;padding-top:65px;padding-bottom:85px}
+.demo-site .d-faq summary{font-size:13px;line-height:1.8;padding-right:4px}
+.demo-site .d-faq details{border-color:var(--hairline);padding-block:20px}
+.demo-site .d-faq details p{line-height:1.95}
+.demo-site .d-contact{background:var(--soft);border-radius:32px 32px 0 0;margin:0 3%;padding:70px 4.25%;gap:9%}
+.demo-site .d-contact form{background:color-mix(in srgb,var(--paper) 65%,transparent);border:1px solid var(--hairline);border-radius:16px;padding:27px}
+.demo-site .d-contact input,.demo-site .d-contact select,.demo-site .d-contact textarea{font-family:var(--body-font);font-size:14px;line-height:1.65;padding:12px 14px;border-color:var(--hairline);border-radius:7px;min-height:46px}
+.demo-site .d-contact label{font-size:11px;line-height:1.8}
+.demo-site .demo-disclaimer{border:0;border-left:2px solid var(--hairline);border-radius:0;padding:4px 0 4px 17px;margin-top:25px}
+.demo-site .demo-disclaimer strong{font-weight:500}
+.demo-site .demo-disclaimer p{font-size:10px;line-height:1.9}
+.demo-site .demo-footer{background:var(--soft);border:0;margin:0 3%;padding:30px 4.25%;border-top:1px solid var(--hairline);align-items:center}
+.demo-site .demo-footer strong{font-weight:600;line-height:1.6}
+.demo-site .d-button{min-height:46px;line-height:1.8;border-radius:7px;white-space:normal}
+.demo-site .d-link{min-height:40px;line-height:1.8}
+.demo-site .d-intro>p{font-size:14px;line-height:1.95;max-width:465px}
+.demo-site .d-eyebrow{font-size:9px;line-height:1.9}
+/* Library: larger labels and calmer cards keep the catalog easy to scan. */
+.header-inner .brand small{letter-spacing:1.15px}.template-grid{gap:38px 26px}.card-meta h3{font-size:20px;line-height:1.5}.card-category{font-size:9px;line-height:1.8}.card-tags>span{font-size:9px;padding:5px 8px}.card-preview{border-radius:14px;padding:15px 15px 0;background:#eff3eb}.heart-button{width:36px;height:36px}.template-badge{line-height:1.5}.hero-copy h1{font-weight:600;line-height:1.22;font-size:clamp(40px,4.5vw,60px)}.hero-copy>p{line-height:1.9}.pagination{flex-wrap:wrap}.pagination button{min-width:38px;height:40px}.category-tile{border-radius:12px}.category-tile strong{line-height:1.8}.section-head h2{line-height:1.4}.request-intro h1{line-height:1.3}.demo-viewer .viewer-toolbar .button{line-height:1.6}.demo-site .saas-main h3{font-size:14px;line-height:1.6}.mini-inner .demo-hero h1{font-size:54px!important;line-height:1.25}.mini-inner .demo-hero p{font-size:13px!important;line-height:1.9}.mini-inner .hero-spa{gap:24px}.mini-inner .hero-spa h1{font-size:47px!important}
+@media(max-width:800px){.demo-site:not(.mini-inner) .d-section{padding:60px 6%}.demo-site:not(.mini-inner) .d-offers,.demo-site:not(.mini-inner) .d-contact{padding:52px 4.5%;margin-inline:3%;border-radius:22px}.demo-site:not(.mini-inner) .d-about-grid{gap:6%}.demo-site:not(.mini-inner) .d-section h2{font-size:33px}.demo-site:not(.mini-inner) .d-offer-grid{gap:20px}.demo-site:not(.mini-inner) .d-offer-grid article .offer-img img{height:200px}.demo-site:not(.mini-inner) .d-offer-grid h3{font-size:18px}.demo-site:not(.mini-inner) .gallery-main>img{height:410px}.demo-site:not(.mini-inner) .d-contact form{padding:20px}.demo-site:not(.mini-inner) .d-plan-grid{gap:20px}.demo-site:not(.mini-inner) .d-plan-grid article.recommended{padding:24px 16px}.demo-site:not(.mini-inner) .d-plan-grid h3{font-size:21px}}
+@media(max-width:560px){
+.demo-site:not(.mini-inner) .demo-nav{height:70px;padding-inline:6%;gap:8px}.demo-site:not(.mini-inner) .demo-brand{font-size:14px!important;max-width:calc(100% - 42px);white-space:normal;line-height:1.5;text-align:left}.demo-site:not(.mini-inner) .demo-brand>span{flex-shrink:0}.demo-site:not(.mini-inner) .demo-nav-cta{display:none}.demo-site:not(.mini-inner) .demo-menu{margin-left:auto;flex-shrink:0}.demo-site:not(.mini-inner) .demo-nav nav{top:70px;background:var(--paper)}
+.demo-site:not(.mini-inner) h1{font-size:36px;line-height:1.3;letter-spacing:-.04em}.demo-site:not(.mini-inner) .hero-language h1,.demo-site:not(.mini-inner) .hero-creative h1{font-size:43px}.demo-site:not(.mini-inner) .hero-spa h1{font-size:37px}.demo-site:not(.mini-inner) .hero-training h1{font-size:40px}.demo-site:not(.mini-inner) .d-intro>p{font-size:12px;line-height:1.95}.demo-site:not(.mini-inner) .d-eyebrow{font-size:8px}.demo-site:not(.mini-inner) .demo-ribbon{gap:12px;margin-inline:6%;font-size:9px;line-height:1.8;justify-content:flex-start;padding:20px 0}
+.demo-site:not(.mini-inner) .d-section{padding:46px 6%}.demo-site:not(.mini-inner) .d-section h2{font-size:29px;line-height:1.45;margin-bottom:23px}.demo-site:not(.mini-inner) .d-section-label{font-size:8px;line-height:1.9;margin-bottom:18px}.demo-site:not(.mini-inner) .d-about{padding-bottom:27px}.demo-site:not(.mini-inner) .d-about-grid p{font-size:12px;line-height:1.95}.demo-site:not(.mini-inner) .d-values{grid-template-columns:1fr;gap:10px;margin-top:23px}.demo-site:not(.mini-inner) .d-values>div{padding:20px 0 10px}.demo-site:not(.mini-inner) .d-values h3{font-size:18px;margin:10px 0}.demo-site:not(.mini-inner) .d-values p{max-width:none}
+.demo-site:not(.mini-inner) .d-offers{margin-inline:3%;padding:40px 4.25% 44px;border-radius:20px}.demo-site:not(.mini-inner) .d-section-head{align-items:flex-start;gap:12px;margin-bottom:25px}.demo-site:not(.mini-inner) .d-tabs{gap:18px}.demo-site:not(.mini-inner) .d-tabs button{font-size:10px}.demo-site:not(.mini-inner) .d-offer-grid{grid-template-columns:1fr;gap:32px}.demo-site:not(.mini-inner) .d-offer-grid article .offer-img img{height:245px!important}.demo-site:not(.mini-inner) .d-offer-grid h3{font-size:21px;line-height:1.5;margin-top:19px}.demo-site:not(.mini-inner) .d-offer-grid p{font-size:12px;line-height:1.95}
+.demo-site:not(.mini-inner) .d-steps{grid-template-columns:1fr;gap:23px;margin-top:23px}.demo-site:not(.mini-inner) .d-steps>div{padding-top:20px}.demo-site:not(.mini-inner) .d-steps b{font-size:24px!important}.demo-site:not(.mini-inner) .d-steps h3{margin:12px 0;font-size:19px}.demo-site:not(.mini-inner) .d-gallery{padding-top:20px;padding-bottom:25px}.demo-site:not(.mini-inner) .gallery-main>img{height:370px}.demo-site:not(.mini-inner) .gallery-main>div{left:14px;right:14px;bottom:14px;padding:18px;max-width:none}.demo-site:not(.mini-inner) .gallery-main h3{font-size:24px}.demo-site:not(.mini-inner) .gallery-main p{font-size:10px}
+.demo-site:not(.mini-inner) .d-plan-grid{grid-template-columns:1fr;gap:20px}.demo-site:not(.mini-inner) .d-plan-grid article{padding:24px 0}.demo-site:not(.mini-inner) .d-plan-grid article.recommended{padding:26px 23px}.demo-site:not(.mini-inner) .d-plan-grid h3{font-size:24px}.demo-site:not(.mini-inner) .d-reviews{padding-block:28px}.demo-site:not(.mini-inner) .d-reviews blockquote{font-size:25px;line-height:1.65}.demo-site:not(.mini-inner) .d-faq{grid-template-columns:1fr;gap:3px}.demo-site:not(.mini-inner) .d-faq summary{font-size:12px;line-height:1.9;min-height:44px;align-items:center}
+.demo-site:not(.mini-inner) .d-contact{grid-template-columns:1fr;margin-inline:3%;padding:40px 4.25%;border-radius:20px 20px 0 0;gap:25px}.demo-site:not(.mini-inner) .d-contact form{padding:20px 16px}.demo-site:not(.mini-inner) .d-contact input,.demo-site:not(.mini-inner) .d-contact select,.demo-site:not(.mini-inner) .d-contact textarea{font-size:16px}.demo-site:not(.mini-inner) .demo-footer{padding:25px 4.25%;margin-inline:3%;align-items:flex-start;gap:12px}.demo-site:not(.mini-inner) .d-button{font-size:11px!important;min-height:46px;line-height:1.8}
+.hero-copy h1{font-size:40px;line-height:1.3}.hero-copy .eyebrow{letter-spacing:1px;font-size:8px}.hero-asterisk{font-size:33px;right:0;top:58px}.hero-proof{line-height:1.9}.section-head h2{font-size:27px}.card-meta h3{font-size:22px}.catalog-head h1{line-height:1.4}.header .brand{font-size:22px}.header .brand small{font-size:5px}.request-intro h1{font-size:33px}
+}
+
+.demo-site :is(.spa-sign,.scribble,.coffee-photo>span,.interior-number,.residence-bottom b){font-family:var(--display-font)}
