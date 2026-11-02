@@ -1,0 +1,82 @@
+[
+  {
+    "id": "giao-duc",
+    "name": "Giáo dục"
+  },
+  {
+    "id": "y-te",
+    "name": "Y tế"
+  },
+  {
+    "id": "nha-khoa",
+    "name": "Nha khoa"
+  },
+  {
+    "id": "spa",
+    "name": "Spa & Wellness"
+  },
+  {
+    "id": "my-pham",
+    "name": "Mỹ phẩm"
+  },
+  {
+    "id": "thoi-trang",
+    "name": "Thời trang"
+  },
+  {
+    "id": "nha-hang",
+    "name": "Nhà hàng"
+  },
+  {
+    "id": "ca-phe",
+    "name": "Cà phê"
+  },
+  {
+    "id": "khach-san",
+    "name": "Khách sạn"
+  },
+  {
+    "id": "du-lich",
+    "name": "Du lịch"
+  },
+  {
+    "id": "bat-dong-san",
+    "name": "Bất động sản"
+  },
+  {
+    "id": "kien-truc",
+    "name": "Kiến trúc"
+  },
+  {
+    "id": "noi-that",
+    "name": "Nội thất"
+  },
+  {
+    "id": "xay-dung",
+    "name": "Xây dựng"
+  },
+  {
+    "id": "cong-nghe",
+    "name": "Công nghệ"
+  },
+  {
+    "id": "tu-van",
+    "name": "Tư vấn doanh nghiệp"
+  },
+  {
+    "id": "tai-chinh",
+    "name": "Tài chính & Kế toán"
+  },
+  {
+    "id": "o-to",
+    "name": "Ô tô"
+  },
+  {
+    "id": "the-thao",
+    "name": "Thể thao"
+  },
+  {
+    "id": "nong-nghiep",
+    "name": "Nông nghiệp"
+  }
+]

@@ -1,0 +1,301 @@
+Mã,Ngành,Tên mẫu,Phong cách,Hero,Bố cục
+WEB-001,Giáo dục,Mộc Mầm non trải nghiệm,Editorial,0,story-offers-feature-process-gallery-faq-contact
+WEB-002,Giáo dục,Nếp Trung tâm ngoại ngữ,Brutalist,2,story-feature-offers-gallery-process-faq-contact
+WEB-003,Giáo dục,Dấu Học viện thiết kế,Organic,4,story-process-feature-offers-gallery-faq-contact
+WEB-004,Giáo dục,Mở Trường liên cấp,Swiss Grid,6,story-gallery-feature-process-offers-faq-contact
+WEB-005,Giáo dục,Tầm Luyện thi,Cinematic,8,offers-story-gallery-feature-process-faq-contact
+WEB-006,Giáo dục,Hiên Khóa học kỹ năng,Minimal,10,offers-feature-gallery-process-story-faq-contact
+WEB-007,Giáo dục,Nắng Đào tạo doanh nghiệp,Art Direction,12,offers-gallery-story-feature-process-faq-contact
+WEB-008,Giáo dục,Gốc Học nhạc,Retro,14,feature-story-offers-gallery-process-faq-contact
+WEB-009,Giáo dục,Vòm STEM thiếu nhi,Luxury,16,feature-offers-process-story-gallery-faq-contact
+WEB-010,Giáo dục,Lối Du học,Playful,18,feature-process-offers-gallery-story-faq-contact
+WEB-011,Giáo dục,Nhịp Gia sư,Technical,20,feature-gallery-process-story-offers-faq-contact
+WEB-012,Giáo dục,Sắc Học trực tuyến,Warm Modern,22,process-story-gallery-feature-offers-faq-contact
+WEB-013,Giáo dục,Thềm Hướng nghiệp,Magazine,24,process-feature-story-offers-gallery-faq-contact
+WEB-014,Giáo dục,Lá Kỹ năng sống,Monochrome,26,process-gallery-story-feature-offers-faq-contact
+WEB-015,Giáo dục,Chạm Trường nghệ thuật,Experimental,28,gallery-story-feature-offers-process-faq-contact
+WEB-016,Y tế,Mộc Phòng khám gia đình,Editorial,1,story-process-gallery-feature-offers-faq-contact
+WEB-017,Y tế,Nếp Chăm sóc sức khỏe,Brutalist,3,offers-story-feature-process-gallery-faq-contact
+WEB-018,Y tế,Dấu Vật lý trị liệu,Organic,5,offers-feature-story-gallery-process-faq-contact
+WEB-019,Y tế,Mở Dinh dưỡng,Swiss Grid,7,offers-process-feature-story-gallery-faq-contact
+WEB-020,Y tế,Tầm Khám sức khỏe,Cinematic,9,offers-gallery-feature-process-story-faq-contact
+WEB-021,Y tế,Hiên Chăm sóc người cao tuổi,Minimal,11,feature-story-gallery-offers-process-faq-contact
+WEB-022,Y tế,Nắng Y học dự phòng,Art Direction,13,feature-offers-gallery-process-story-faq-contact
+WEB-023,Y tế,Gốc Phòng khám nhi,Retro,15,feature-gallery-story-offers-process-faq-contact
+WEB-024,Y tế,Vòm Chăm sóc tại nhà,Luxury,17,process-story-offers-gallery-feature-faq-contact
+WEB-025,Y tế,Lối Sức khỏe phụ nữ,Playful,19,process-offers-feature-story-gallery-faq-contact
+WEB-026,Y tế,Nhịp Tâm lý tham vấn,Technical,21,process-feature-offers-gallery-story-faq-contact
+WEB-027,Y tế,Sắc Phục hồi vận động,Warm Modern,23,process-gallery-feature-story-offers-faq-contact
+WEB-028,Y tế,Thềm Phòng khám tổng quát,Magazine,25,gallery-story-process-feature-offers-faq-contact
+WEB-029,Y tế,Lá Sức khỏe doanh nghiệp,Monochrome,27,gallery-feature-story-offers-process-faq-contact
+WEB-030,Y tế,Chạm Tư vấn giấc ngủ,Experimental,29,gallery-process-story-feature-offers-faq-contact
+WEB-031,Nha khoa,Mộc Nha khoa gia đình,Editorial,2,offers-feature-gallery-story-process-faq-contact
+WEB-032,Nha khoa,Nếp Chăm sóc răng trẻ em,Brutalist,4,offers-process-gallery-feature-story-faq-contact
+WEB-033,Nha khoa,Dấu Nha khoa thẩm mỹ,Organic,6,feature-story-offers-process-gallery-faq-contact
+WEB-034,Nha khoa,Mở Tư vấn chỉnh nha,Swiss Grid,8,feature-offers-story-gallery-process-faq-contact
+WEB-035,Nha khoa,Tầm Chăm sóc nướu,Cinematic,10,feature-process-offers-story-gallery-faq-contact
+WEB-036,Nha khoa,Hiên Nha khoa dự phòng,Minimal,12,feature-gallery-offers-process-story-faq-contact
+WEB-037,Nha khoa,Nắng Nha khoa kỹ thuật số,Art Direction,14,process-story-gallery-offers-feature-faq-contact
+WEB-038,Nha khoa,Gốc Khám răng định kỳ,Retro,16,process-offers-gallery-feature-story-faq-contact
+WEB-039,Nha khoa,Vòm Vệ sinh răng miệng,Luxury,18,process-gallery-story-offers-feature-faq-contact
+WEB-040,Nha khoa,Lối Tư vấn phục hình,Playful,20,gallery-story-offers-process-feature-faq-contact
+WEB-041,Nha khoa,Nhịp Nha khoa cộng đồng,Technical,22,gallery-offers-feature-story-process-faq-contact
+WEB-042,Nha khoa,Sắc Studio nụ cười,Warm Modern,24,gallery-feature-offers-process-story-faq-contact
+WEB-043,Nha khoa,Thềm Chăm sóc sau điều trị,Magazine,26,gallery-process-feature-story-offers-faq-contact
+WEB-044,Nha khoa,Lá Nha khoa văn phòng,Monochrome,28,story-offers-gallery-process-feature-faq-contact
+WEB-045,Nha khoa,Chạm Trung tâm tư vấn răng,Experimental,0,story-process-offers-feature-gallery-faq-contact
+WEB-046,Spa & Wellness,Mộc Day spa,Editorial,3,feature-story-process-gallery-offers-faq-contact
+WEB-047,Spa & Wellness,Nếp Chăm sóc cơ thể,Brutalist,5,feature-offers-gallery-story-process-faq-contact
+WEB-048,Spa & Wellness,Dấu Spa đô thị,Organic,7,feature-process-gallery-offers-story-faq-contact
+WEB-049,Spa & Wellness,Mở Wellness retreat,Swiss Grid,9,process-story-offers-feature-gallery-faq-contact
+WEB-050,Spa & Wellness,Tầm Chăm sóc da,Cinematic,11,process-offers-story-gallery-feature-faq-contact
+WEB-051,Spa & Wellness,Hiên Trị liệu thư giãn,Minimal,13,process-feature-offers-story-gallery-faq-contact
+WEB-052,Spa & Wellness,Nắng Spa thảo mộc,Art Direction,15,process-gallery-offers-feature-story-faq-contact
+WEB-053,Spa & Wellness,Gốc Studio hương thơm,Retro,17,gallery-story-process-offers-feature-faq-contact
+WEB-054,Spa & Wellness,Vòm Chăm sóc da nam,Luxury,19,gallery-offers-process-feature-story-faq-contact
+WEB-055,Spa & Wellness,Lối Spa tối giản,Playful,21,gallery-process-story-offers-feature-faq-contact
+WEB-056,Spa & Wellness,Nhịp Spa thiên nhiên,Technical,23,story-offers-feature-gallery-process-faq-contact
+WEB-057,Spa & Wellness,Sắc Chăm sóc tay chân,Warm Modern,25,story-feature-process-offers-gallery-faq-contact
+WEB-058,Spa & Wellness,Thềm Spa riêng tư,Magazine,27,story-process-feature-gallery-offers-faq-contact
+WEB-059,Spa & Wellness,Lá Wellness văn phòng,Monochrome,29,story-gallery-process-offers-feature-faq-contact
+WEB-060,Spa & Wellness,Chạm Không gian thư thái,Experimental,1,offers-story-gallery-process-feature-faq-contact
+WEB-061,Mỹ phẩm,Mộc Chăm sóc da,Editorial,4,feature-gallery-offers-story-process-faq-contact
+WEB-062,Mỹ phẩm,Nếp Mỹ phẩm thực vật,Brutalist,6,process-story-feature-gallery-offers-faq-contact
+WEB-063,Mỹ phẩm,Dấu Trang điểm,Organic,8,process-offers-gallery-story-feature-faq-contact
+WEB-064,Mỹ phẩm,Mở Dưỡng thể,Swiss Grid,10,process-feature-gallery-offers-story-faq-contact
+WEB-065,Mỹ phẩm,Tầm Chăm sóc tóc,Cinematic,12,gallery-story-offers-feature-process-faq-contact
+WEB-066,Mỹ phẩm,Hiên Hương thơm,Minimal,14,gallery-offers-story-process-feature-faq-contact
+WEB-067,Mỹ phẩm,Nắng Mỹ phẩm tối giản,Art Direction,16,gallery-feature-offers-story-process-faq-contact
+WEB-068,Mỹ phẩm,Gốc Dòng sản phẩm nam,Retro,18,gallery-process-offers-feature-story-faq-contact
+WEB-069,Mỹ phẩm,Vòm Bộ dưỡng du lịch,Luxury,20,story-offers-gallery-feature-process-faq-contact
+WEB-070,Mỹ phẩm,Lối Làm sạch,Playful,22,story-feature-gallery-process-offers-faq-contact
+WEB-071,Mỹ phẩm,Nhịp Chống nắng,Technical,24,story-gallery-offers-feature-process-faq-contact
+WEB-072,Mỹ phẩm,Sắc Mặt nạ,Warm Modern,26,offers-story-feature-gallery-process-faq-contact
+WEB-073,Mỹ phẩm,Thềm Mỹ phẩm thuần chay,Magazine,28,offers-feature-process-story-gallery-faq-contact
+WEB-074,Mỹ phẩm,Lá Bộ quà chăm sóc,Monochrome,0,offers-process-feature-gallery-story-faq-contact
+WEB-075,Mỹ phẩm,Chạm Cửa hàng mỹ phẩm,Experimental,2,offers-gallery-process-story-feature-faq-contact
+WEB-076,Thời trang,Mộc Thời trang nữ,Editorial,5,process-feature-story-gallery-offers-faq-contact
+WEB-077,Thời trang,Nếp Trang phục nam,Brutalist,7,process-gallery-offers-story-feature-faq-contact
+WEB-078,Thời trang,Dấu Thời trang bền vững,Organic,9,gallery-story-feature-process-offers-faq-contact
+WEB-079,Thời trang,Mở Trang phục công sở,Swiss Grid,11,gallery-offers-process-story-feature-faq-contact
+WEB-080,Thời trang,Tầm Đồ mặc hằng ngày,Cinematic,13,gallery-feature-process-offers-story-faq-contact
+WEB-081,Thời trang,Hiên Phụ kiện,Minimal,15,story-offers-feature-process-gallery-faq-contact
+WEB-082,Thời trang,Nắng Giày thủ công,Art Direction,17,story-feature-offers-gallery-process-faq-contact
+WEB-083,Thời trang,Gốc Túi thiết kế,Retro,19,story-process-feature-offers-gallery-faq-contact
+WEB-084,Thời trang,Vòm Trang phục trẻ em,Luxury,21,story-gallery-feature-process-offers-faq-contact
+WEB-085,Thời trang,Lối Streetwear,Playful,23,offers-story-gallery-feature-process-faq-contact
+WEB-086,Thời trang,Nhịp Đồ linen,Technical,25,offers-feature-gallery-process-story-faq-contact
+WEB-087,Thời trang,Sắc Trang phục thể thao,Warm Modern,27,offers-gallery-story-feature-process-faq-contact
+WEB-088,Thời trang,Thềm May đo,Magazine,29,feature-story-offers-gallery-process-faq-contact
+WEB-089,Thời trang,Lá Trang sức,Monochrome,1,feature-offers-process-story-gallery-faq-contact
+WEB-090,Thời trang,Chạm Bộ sưu tập theo mùa,Experimental,3,feature-process-offers-gallery-story-faq-contact
+WEB-091,Nhà hàng,Mộc Ẩm thực Việt,Editorial,6,gallery-offers-story-feature-process-faq-contact
+WEB-092,Nhà hàng,Nếp Bếp theo mùa,Brutalist,8,gallery-feature-story-process-offers-faq-contact
+WEB-093,Nhà hàng,Dấu Nhà hàng chay,Organic,10,gallery-process-offers-story-feature-faq-contact
+WEB-094,Nhà hàng,Mở Bistro,Swiss Grid,12,story-offers-process-gallery-feature-faq-contact
+WEB-095,Nhà hàng,Tầm Fine dining,Cinematic,14,story-feature-gallery-offers-process-faq-contact
+WEB-096,Nhà hàng,Hiên Bếp gia đình,Minimal,16,story-process-gallery-feature-offers-faq-contact
+WEB-097,Nhà hàng,Nắng Nhà hàng hải sản,Art Direction,18,offers-story-feature-process-gallery-faq-contact
+WEB-098,Nhà hàng,Gốc Ẩm thực Nhật,Retro,20,offers-feature-story-gallery-process-faq-contact
+WEB-099,Nhà hàng,Vòm Bếp Địa Trung Hải,Luxury,22,offers-process-feature-story-gallery-faq-contact
+WEB-100,Nhà hàng,Lối Bếp mở,Playful,24,offers-gallery-feature-process-story-faq-contact
+WEB-101,Nhà hàng,Nhịp Tiệc riêng,Technical,26,feature-story-gallery-offers-process-faq-contact
+WEB-102,Nhà hàng,Sắc Nhà hàng vườn,Warm Modern,28,feature-offers-gallery-process-story-faq-contact
+WEB-103,Nhà hàng,Thềm Ẩm thực đường phố,Magazine,0,feature-gallery-story-offers-process-faq-contact
+WEB-104,Nhà hàng,Lá Bếp nướng,Monochrome,2,process-story-offers-gallery-feature-faq-contact
+WEB-105,Nhà hàng,Chạm Nhà hàng ven sông,Experimental,4,process-offers-feature-story-gallery-faq-contact
+WEB-106,Cà phê,Mộc Specialty coffee,Editorial,7,gallery-process-feature-offers-story-faq-contact
+WEB-107,Cà phê,Nếp Quán cà phê vườn,Brutalist,9,story-feature-offers-process-gallery-faq-contact
+WEB-108,Cà phê,Dấu Coffee & books,Organic,11,story-process-offers-gallery-feature-faq-contact
+WEB-109,Cà phê,Mở Quán rang xay,Swiss Grid,13,story-gallery-feature-offers-process-faq-contact
+WEB-110,Cà phê,Tầm Cà phê làm việc,Cinematic,15,offers-story-process-gallery-feature-faq-contact
+WEB-111,Cà phê,Hiên Espresso bar,Minimal,17,offers-feature-gallery-story-process-faq-contact
+WEB-112,Cà phê,Nắng Cà phê ven sông,Art Direction,19,offers-process-gallery-feature-story-faq-contact
+WEB-113,Cà phê,Gốc Bakery café,Retro,21,feature-story-offers-process-gallery-faq-contact
+WEB-114,Cà phê,Vòm Cà phê cộng đồng,Luxury,23,feature-offers-story-gallery-process-faq-contact
+WEB-115,Cà phê,Lối Cold brew studio,Playful,25,feature-process-offers-story-gallery-faq-contact
+WEB-116,Cà phê,Nhịp Cà phê mang đi,Technical,27,feature-gallery-offers-process-story-faq-contact
+WEB-117,Cà phê,Sắc Cà phê sân thượng,Warm Modern,29,process-story-gallery-offers-feature-faq-contact
+WEB-118,Cà phê,Thềm Coffee lab,Magazine,1,process-offers-gallery-feature-story-faq-contact
+WEB-119,Cà phê,Lá Cà phê thủ công,Monochrome,3,process-gallery-story-offers-feature-faq-contact
+WEB-120,Cà phê,Chạm Cà phê & nghệ thuật,Experimental,5,gallery-story-offers-process-feature-faq-contact
+WEB-121,Khách sạn,Mộc Boutique hotel,Editorial,8,story-process-gallery-offers-feature-faq-contact
+WEB-122,Khách sạn,Nếp Lưu trú ven biển,Brutalist,10,story-gallery-process-feature-offers-faq-contact
+WEB-123,Khách sạn,Dấu Khách sạn đô thị,Organic,12,offers-feature-story-process-gallery-faq-contact
+WEB-124,Khách sạn,Mở Resort vườn,Swiss Grid,14,offers-process-story-gallery-feature-faq-contact
+WEB-125,Khách sạn,Tầm Homestay,Cinematic,16,offers-gallery-feature-story-process-faq-contact
+WEB-126,Khách sạn,Hiên Villa nghỉ dưỡng,Minimal,18,feature-story-process-gallery-offers-faq-contact
+WEB-127,Khách sạn,Nắng Khách sạn công tác,Art Direction,20,feature-offers-gallery-story-process-faq-contact
+WEB-128,Khách sạn,Gốc Lodge miền núi,Retro,22,feature-process-gallery-offers-story-faq-contact
+WEB-129,Khách sạn,Vòm Căn hộ dịch vụ,Luxury,24,process-story-offers-feature-gallery-faq-contact
+WEB-130,Khách sạn,Lối Retreat riêng tư,Playful,26,process-offers-story-gallery-feature-faq-contact
+WEB-131,Khách sạn,Nhịp Lưu trú gia đình,Technical,28,process-feature-offers-story-gallery-faq-contact
+WEB-132,Khách sạn,Sắc Nhà nghỉ di sản,Warm Modern,0,process-gallery-offers-feature-story-faq-contact
+WEB-133,Khách sạn,Thềm Eco stay,Magazine,2,gallery-story-process-offers-feature-faq-contact
+WEB-134,Khách sạn,Lá Khách sạn nghệ thuật,Monochrome,4,gallery-offers-process-feature-story-faq-contact
+WEB-135,Khách sạn,Chạm Lưu trú dài ngày,Experimental,6,gallery-process-story-offers-feature-faq-contact
+WEB-136,Du lịch,Mộc Tour bản địa,Editorial,9,offers-feature-process-gallery-story-faq-contact
+WEB-137,Du lịch,Nếp Du lịch trải nghiệm,Brutalist,11,offers-process-gallery-story-feature-faq-contact
+WEB-138,Du lịch,Dấu Trekking,Organic,13,offers-gallery-process-feature-story-faq-contact
+WEB-139,Du lịch,Mở Du lịch gia đình,Swiss Grid,15,feature-offers-story-process-gallery-faq-contact
+WEB-140,Du lịch,Tầm Chuyến đi riêng,Cinematic,17,feature-process-story-gallery-offers-faq-contact
+WEB-141,Du lịch,Hiên Tour văn hóa,Minimal,19,feature-gallery-offers-story-process-faq-contact
+WEB-142,Du lịch,Nắng Du lịch ẩm thực,Art Direction,21,process-story-feature-gallery-offers-faq-contact
+WEB-143,Du lịch,Gốc Du lịch sinh thái,Retro,23,process-offers-gallery-story-feature-faq-contact
+WEB-144,Du lịch,Vòm Du lịch cuối tuần,Luxury,25,process-feature-gallery-offers-story-faq-contact
+WEB-145,Du lịch,Lối Tour nhiếp ảnh,Playful,27,gallery-story-offers-feature-process-faq-contact
+WEB-146,Du lịch,Nhịp Tour biển đảo,Technical,29,gallery-offers-story-process-feature-faq-contact
+WEB-147,Du lịch,Sắc Du lịch doanh nghiệp,Warm Modern,1,gallery-feature-offers-story-process-faq-contact
+WEB-148,Du lịch,Thềm Du lịch đường dài,Magazine,3,gallery-process-offers-feature-story-faq-contact
+WEB-149,Du lịch,Lá Hành trình di sản,Monochrome,5,story-offers-gallery-feature-process-faq-contact
+WEB-150,Du lịch,Chạm Du lịch chậm,Experimental,7,story-feature-gallery-process-offers-faq-contact
+WEB-151,Bất động sản,Mộc Căn hộ đô thị,Editorial,10,feature-story-process-offers-gallery-faq-contact
+WEB-152,Bất động sản,Nếp Nhà ở gia đình,Brutalist,12,feature-offers-process-gallery-story-faq-contact
+WEB-153,Bất động sản,Dấu Không gian thương mại,Organic,14,feature-process-gallery-story-offers-faq-contact
+WEB-154,Bất động sản,Mở Bất động sản nghỉ dưỡng,Swiss Grid,16,feature-gallery-process-offers-story-faq-contact
+WEB-155,Bất động sản,Tầm Cho thuê văn phòng,Cinematic,18,process-offers-story-feature-gallery-faq-contact
+WEB-156,Bất động sản,Hiên Nhà phố,Minimal,20,process-feature-story-gallery-offers-faq-contact
+WEB-157,Bất động sản,Nắng Cộng đồng xanh,Art Direction,22,process-gallery-offers-story-feature-faq-contact
+WEB-158,Bất động sản,Gốc Tư vấn nơi ở,Retro,24,gallery-story-feature-process-offers-faq-contact
+WEB-159,Bất động sản,Vòm Dự án ven sông,Luxury,26,gallery-offers-process-story-feature-faq-contact
+WEB-160,Bất động sản,Lối Căn hộ nhỏ,Playful,28,gallery-feature-process-offers-story-faq-contact
+WEB-161,Bất động sản,Nhịp Nhà ở ngoại ô,Technical,0,story-offers-feature-process-gallery-faq-contact
+WEB-162,Bất động sản,Sắc Không gian làm việc,Warm Modern,2,story-feature-offers-gallery-process-faq-contact
+WEB-163,Bất động sản,Thềm Nhà mẫu,Magazine,4,story-process-feature-offers-gallery-faq-contact
+WEB-164,Bất động sản,Lá Môi giới địa phương,Monochrome,6,story-gallery-feature-process-offers-faq-contact
+WEB-165,Bất động sản,Chạm Bất động sản doanh nghiệp,Experimental,8,offers-story-gallery-feature-process-faq-contact
+WEB-166,Kiến trúc,Mộc Kiến trúc nhà ở,Editorial,11,feature-gallery-story-process-offers-faq-contact
+WEB-167,Kiến trúc,Nếp Studio kiến trúc,Brutalist,13,process-story-feature-offers-gallery-faq-contact
+WEB-168,Kiến trúc,Dấu Kiến trúc xanh,Organic,15,process-offers-feature-gallery-story-faq-contact
+WEB-169,Kiến trúc,Mở Thiết kế cảnh quan,Swiss Grid,17,process-feature-gallery-story-offers-faq-contact
+WEB-170,Kiến trúc,Tầm Cải tạo nhà,Cinematic,19,process-gallery-feature-offers-story-faq-contact
+WEB-171,Kiến trúc,Hiên Kiến trúc nghỉ dưỡng,Minimal,21,gallery-offers-story-feature-process-faq-contact
+WEB-172,Kiến trúc,Nắng Nhà ở tối giản,Art Direction,23,gallery-feature-story-process-offers-faq-contact
+WEB-173,Kiến trúc,Gốc Không gian công cộng,Retro,25,gallery-process-offers-story-feature-faq-contact
+WEB-174,Kiến trúc,Vòm Kiến trúc văn phòng,Luxury,27,story-offers-process-gallery-feature-faq-contact
+WEB-175,Kiến trúc,Lối Thiết kế đô thị,Playful,29,story-feature-gallery-offers-process-faq-contact
+WEB-176,Kiến trúc,Nhịp Nhà phố nhiệt đới,Technical,1,story-process-gallery-feature-offers-faq-contact
+WEB-177,Kiến trúc,Sắc Kiến trúc thủ công,Warm Modern,3,offers-story-feature-process-gallery-faq-contact
+WEB-178,Kiến trúc,Thềm Thiết kế mặt tiền,Magazine,5,offers-feature-story-gallery-process-faq-contact
+WEB-179,Kiến trúc,Lá Không gian cộng đồng,Monochrome,7,offers-process-feature-story-gallery-faq-contact
+WEB-180,Kiến trúc,Chạm Kiến trúc thử nghiệm,Experimental,9,offers-gallery-feature-process-story-faq-contact
+WEB-181,Nội thất,Mộc Nội thất nhà ở,Editorial,12,process-feature-story-offers-gallery-faq-contact
+WEB-182,Nội thất,Nếp Nội thất gỗ,Brutalist,14,process-gallery-story-feature-offers-faq-contact
+WEB-183,Nội thất,Dấu Không gian bếp,Organic,16,gallery-story-feature-offers-process-faq-contact
+WEB-184,Nội thất,Mở Nội thất văn phòng,Swiss Grid,18,gallery-offers-feature-process-story-faq-contact
+WEB-185,Nội thất,Tầm Nội thất căn hộ,Cinematic,20,gallery-feature-process-story-offers-faq-contact
+WEB-186,Nội thất,Hiên Đèn & vật dụng,Minimal,22,gallery-process-feature-offers-story-faq-contact
+WEB-187,Nội thất,Nắng Nội thất thủ công,Art Direction,24,story-feature-offers-process-gallery-faq-contact
+WEB-188,Nội thất,Gốc Phòng ngủ,Retro,26,story-process-offers-gallery-feature-faq-contact
+WEB-189,Nội thất,Vòm Decor,Luxury,28,story-gallery-feature-offers-process-faq-contact
+WEB-190,Nội thất,Lối Nội thất trẻ em,Playful,0,offers-story-process-gallery-feature-faq-contact
+WEB-191,Nội thất,Nhịp Nội thất nhà hàng,Technical,2,offers-feature-gallery-story-process-faq-contact
+WEB-192,Nội thất,Sắc Thiết kế trọn không gian,Warm Modern,4,offers-process-gallery-feature-story-faq-contact
+WEB-193,Nội thất,Thềm Nội thất ngoài trời,Magazine,6,feature-story-offers-process-gallery-faq-contact
+WEB-194,Nội thất,Lá Vật liệu tự nhiên,Monochrome,8,feature-offers-story-gallery-process-faq-contact
+WEB-195,Nội thất,Chạm Thiết kế theo yêu cầu,Experimental,10,feature-process-offers-story-gallery-faq-contact
+WEB-196,Xây dựng,Mộc Xây dựng dân dụng,Editorial,13,gallery-story-process-feature-offers-faq-contact
+WEB-197,Xây dựng,Nếp Nhà thầu tổng hợp,Brutalist,15,gallery-feature-story-offers-process-faq-contact
+WEB-198,Xây dựng,Dấu Cải tạo công trình,Organic,17,gallery-process-story-feature-offers-faq-contact
+WEB-199,Xây dựng,Mở Thi công nhà phố,Swiss Grid,19,story-offers-process-feature-gallery-faq-contact
+WEB-200,Xây dựng,Tầm Thi công văn phòng,Cinematic,21,story-feature-process-gallery-offers-faq-contact
+WEB-201,Xây dựng,Hiên Công trình công nghiệp,Minimal,23,story-process-gallery-offers-feature-faq-contact
+WEB-202,Xây dựng,Nắng Thi công MEP,Art Direction,25,story-gallery-process-feature-offers-faq-contact
+WEB-203,Xây dựng,Gốc Vật liệu xây dựng,Retro,27,offers-feature-story-process-gallery-faq-contact
+WEB-204,Xây dựng,Vòm Giải pháp kết cấu,Luxury,29,offers-process-story-gallery-feature-faq-contact
+WEB-205,Xây dựng,Lối Hoàn thiện công trình,Playful,1,offers-gallery-feature-story-process-faq-contact
+WEB-206,Xây dựng,Nhịp Bảo trì công trình,Technical,3,feature-story-process-gallery-offers-faq-contact
+WEB-207,Xây dựng,Sắc Thi công cảnh quan,Warm Modern,5,feature-offers-gallery-story-process-faq-contact
+WEB-208,Xây dựng,Thềm Thi công showroom,Magazine,7,feature-process-gallery-offers-story-faq-contact
+WEB-209,Xây dựng,Lá Cơ điện,Monochrome,9,process-story-offers-feature-gallery-faq-contact
+WEB-210,Xây dựng,Chạm Giám sát thi công,Experimental,11,process-offers-story-gallery-feature-faq-contact
+WEB-211,Công nghệ,Mộc Phần mềm doanh nghiệp,Editorial,14,gallery-process-feature-story-offers-faq-contact
+WEB-212,Công nghệ,Nếp Cloud workspace,Brutalist,16,story-offers-gallery-process-feature-faq-contact
+WEB-213,Công nghệ,Dấu Studio sản phẩm số,Organic,18,story-process-offers-feature-gallery-faq-contact
+WEB-214,Công nghệ,Mở An toàn thông tin,Swiss Grid,20,story-gallery-offers-process-feature-faq-contact
+WEB-215,Công nghệ,Tầm Dữ liệu & báo cáo,Cinematic,22,offers-story-process-feature-gallery-faq-contact
+WEB-216,Công nghệ,Hiên Tự động hóa,Minimal,24,offers-feature-process-gallery-story-faq-contact
+WEB-217,Công nghệ,Nắng Ứng dụng nội bộ,Art Direction,26,offers-process-gallery-story-feature-faq-contact
+WEB-218,Công nghệ,Gốc Tích hợp hệ thống,Retro,28,offers-gallery-process-feature-story-faq-contact
+WEB-219,Công nghệ,Vòm Thiết bị thông minh,Luxury,0,feature-offers-story-process-gallery-faq-contact
+WEB-220,Công nghệ,Lối SaaS vận hành,Playful,2,feature-process-story-gallery-offers-faq-contact
+WEB-221,Công nghệ,Nhịp Nền tảng cộng tác,Technical,4,feature-gallery-offers-story-process-faq-contact
+WEB-222,Công nghệ,Sắc Hạ tầng số,Warm Modern,6,process-story-feature-gallery-offers-faq-contact
+WEB-223,Công nghệ,Thềm Công cụ sáng tạo,Magazine,8,process-offers-gallery-story-feature-faq-contact
+WEB-224,Công nghệ,Lá AI workspace,Monochrome,10,process-feature-gallery-offers-story-faq-contact
+WEB-225,Công nghệ,Chạm Tư vấn chuyển đổi số,Experimental,12,gallery-story-offers-feature-process-faq-contact
+WEB-226,Tư vấn doanh nghiệp,Mộc Tư vấn vận hành,Editorial,15,story-process-feature-gallery-offers-faq-contact
+WEB-227,Tư vấn doanh nghiệp,Nếp Tư vấn chiến lược,Brutalist,17,story-gallery-process-offers-feature-faq-contact
+WEB-228,Tư vấn doanh nghiệp,Dấu Nhân sự,Organic,19,offers-story-gallery-process-feature-faq-contact
+WEB-229,Tư vấn doanh nghiệp,Mở Xây dựng thương hiệu,Swiss Grid,21,offers-process-story-feature-gallery-faq-contact
+WEB-230,Tư vấn doanh nghiệp,Tầm Tư vấn quản lý,Cinematic,23,offers-gallery-story-process-feature-faq-contact
+WEB-231,Tư vấn doanh nghiệp,Hiên Tư vấn quy trình,Minimal,25,feature-story-process-offers-gallery-faq-contact
+WEB-232,Tư vấn doanh nghiệp,Nắng Phát triển thị trường,Art Direction,27,feature-offers-process-gallery-story-faq-contact
+WEB-233,Tư vấn doanh nghiệp,Gốc Nghiên cứu khách hàng,Retro,29,feature-process-gallery-story-offers-faq-contact
+WEB-234,Tư vấn doanh nghiệp,Vòm Đào tạo quản lý,Luxury,1,feature-gallery-process-offers-story-faq-contact
+WEB-235,Tư vấn doanh nghiệp,Lối Tư vấn tổ chức,Playful,3,process-offers-story-feature-gallery-faq-contact
+WEB-236,Tư vấn doanh nghiệp,Nhịp Tư vấn bán hàng,Technical,5,process-feature-story-gallery-offers-faq-contact
+WEB-237,Tư vấn doanh nghiệp,Sắc Thiết kế dịch vụ,Warm Modern,7,process-gallery-offers-story-feature-faq-contact
+WEB-238,Tư vấn doanh nghiệp,Thềm Tư vấn chuyển đổi,Magazine,9,gallery-story-feature-process-offers-faq-contact
+WEB-239,Tư vấn doanh nghiệp,Lá Phát triển đội ngũ,Monochrome,11,gallery-offers-process-story-feature-faq-contact
+WEB-240,Tư vấn doanh nghiệp,Chạm Tư vấn khởi nghiệp,Experimental,13,gallery-feature-process-offers-story-faq-contact
+WEB-241,Tài chính & Kế toán,Mộc Kế toán doanh nghiệp,Editorial,16,offers-feature-process-story-gallery-faq-contact
+WEB-242,Tài chính & Kế toán,Nếp Báo cáo quản trị,Brutalist,18,offers-process-feature-gallery-story-faq-contact
+WEB-243,Tài chính & Kế toán,Dấu Tư vấn ngân sách,Organic,20,offers-gallery-process-story-feature-faq-contact
+WEB-244,Tài chính & Kế toán,Mở Dịch vụ sổ sách,Swiss Grid,22,feature-story-gallery-process-offers-faq-contact
+WEB-245,Tài chính & Kế toán,Tầm Kế toán khởi nghiệp,Cinematic,24,feature-process-story-offers-gallery-faq-contact
+WEB-246,Tài chính & Kế toán,Hiên Lập kế hoạch tài chính,Minimal,26,feature-gallery-story-process-offers-faq-contact
+WEB-247,Tài chính & Kế toán,Nắng Kế toán thương mại,Art Direction,28,process-story-feature-offers-gallery-faq-contact
+WEB-248,Tài chính & Kế toán,Gốc Tư vấn dòng tiền,Retro,0,process-offers-feature-gallery-story-faq-contact
+WEB-249,Tài chính & Kế toán,Vòm Kiểm soát chi phí,Luxury,2,process-feature-gallery-story-offers-faq-contact
+WEB-250,Tài chính & Kế toán,Lối Hệ thống báo cáo,Playful,4,process-gallery-feature-offers-story-faq-contact
+WEB-251,Tài chính & Kế toán,Nhịp Dịch vụ thuế,Technical,6,gallery-offers-story-feature-process-faq-contact
+WEB-252,Tài chính & Kế toán,Sắc Kế toán dịch vụ,Warm Modern,8,gallery-feature-story-process-offers-faq-contact
+WEB-253,Tài chính & Kế toán,Thềm Kế toán sản xuất,Magazine,10,gallery-process-offers-story-feature-faq-contact
+WEB-254,Tài chính & Kế toán,Lá Quản trị tài chính,Monochrome,12,story-offers-process-gallery-feature-faq-contact
+WEB-255,Tài chính & Kế toán,Chạm Tư vấn tài chính nội bộ,Experimental,14,story-feature-gallery-offers-process-faq-contact
+WEB-256,Ô tô,Mộc Garage chăm sóc xe,Editorial,17,feature-story-offers-gallery-process-faq-contact
+WEB-257,Ô tô,Nếp Showroom xe,Brutalist,19,feature-offers-process-story-gallery-faq-contact
+WEB-258,Ô tô,Dấu Detailing studio,Organic,21,feature-process-offers-gallery-story-faq-contact
+WEB-259,Ô tô,Mở Bảo dưỡng xe,Swiss Grid,23,feature-gallery-process-story-offers-faq-contact
+WEB-260,Ô tô,Tầm Phụ kiện xe,Cinematic,25,process-story-gallery-feature-offers-faq-contact
+WEB-261,Ô tô,Hiên Xe điện,Minimal,27,process-feature-story-offers-gallery-faq-contact
+WEB-262,Ô tô,Nắng Cho thuê xe,Art Direction,29,process-gallery-story-feature-offers-faq-contact
+WEB-263,Ô tô,Gốc Dịch vụ lốp,Retro,1,gallery-story-feature-offers-process-faq-contact
+WEB-264,Ô tô,Vòm Nội thất ô tô,Luxury,3,gallery-offers-feature-process-story-faq-contact
+WEB-265,Ô tô,Lối Chăm sóc ngoại thất,Playful,5,gallery-feature-process-story-offers-faq-contact
+WEB-266,Ô tô,Nhịp Tư vấn chọn xe,Technical,7,gallery-process-feature-offers-story-faq-contact
+WEB-267,Ô tô,Sắc Xe gia đình,Warm Modern,9,story-feature-offers-process-gallery-faq-contact
+WEB-268,Ô tô,Thềm Trung tâm kiểm tra xe,Magazine,11,story-process-offers-gallery-feature-faq-contact
+WEB-269,Ô tô,Lá Xe doanh nghiệp,Monochrome,13,story-gallery-feature-offers-process-faq-contact
+WEB-270,Ô tô,Chạm Dịch vụ di chuyển,Experimental,15,offers-story-process-gallery-feature-faq-contact
+WEB-271,Thể thao,Mộc PT cá nhân,Editorial,18,feature-gallery-story-offers-process-faq-contact
+WEB-272,Thể thao,Nếp Yoga studio,Brutalist,20,process-story-offers-gallery-feature-faq-contact
+WEB-273,Thể thao,Dấu Pilates,Organic,22,process-offers-feature-story-gallery-faq-contact
+WEB-274,Thể thao,Mở Running club,Swiss Grid,24,process-feature-offers-gallery-story-faq-contact
+WEB-275,Thể thao,Tầm Gym,Cinematic,26,process-gallery-feature-story-offers-faq-contact
+WEB-276,Thể thao,Hiên Bơi lội,Minimal,28,gallery-story-process-feature-offers-faq-contact
+WEB-277,Thể thao,Nắng Đạp xe,Art Direction,0,gallery-feature-story-offers-process-faq-contact
+WEB-278,Thể thao,Gốc Tennis,Retro,2,gallery-process-story-feature-offers-faq-contact
+WEB-279,Thể thao,Vòm Bóng bàn,Luxury,4,story-offers-process-feature-gallery-faq-contact
+WEB-280,Thể thao,Lối Võ thuật,Playful,6,story-feature-process-gallery-offers-faq-contact
+WEB-281,Thể thao,Nhịp Thể lực văn phòng,Technical,8,story-process-gallery-offers-feature-faq-contact
+WEB-282,Thể thao,Sắc Outdoor fitness,Warm Modern,10,story-gallery-process-feature-offers-faq-contact
+WEB-283,Thể thao,Thềm Dance studio,Magazine,12,offers-feature-story-process-gallery-faq-contact
+WEB-284,Thể thao,Lá Leo núi trong nhà,Monochrome,14,offers-process-story-gallery-feature-faq-contact
+WEB-285,Thể thao,Chạm Phục hồi thể lực,Experimental,16,offers-gallery-feature-story-process-faq-contact
+WEB-286,Nông nghiệp,Mộc Nông trại hữu cơ,Editorial,19,process-offers-gallery-feature-story-faq-contact
+WEB-287,Nông nghiệp,Nếp Nông sản địa phương,Brutalist,21,process-gallery-story-offers-feature-faq-contact
+WEB-288,Nông nghiệp,Dấu Vườn rau,Organic,23,gallery-story-offers-process-feature-faq-contact
+WEB-289,Nông nghiệp,Mở Cà phê vùng trồng,Swiss Grid,25,gallery-offers-feature-story-process-faq-contact
+WEB-290,Nông nghiệp,Tầm Trái cây theo mùa,Cinematic,27,gallery-feature-offers-process-story-faq-contact
+WEB-291,Nông nghiệp,Hiên Nông nghiệp công nghệ,Minimal,29,gallery-process-feature-story-offers-faq-contact
+WEB-292,Nông nghiệp,Nắng Thảo mộc,Art Direction,1,story-offers-gallery-process-feature-faq-contact
+WEB-293,Nông nghiệp,Gốc Vườn cây giống,Retro,3,story-process-offers-feature-gallery-faq-contact
+WEB-294,Nông nghiệp,Vòm Sản phẩm từ nông trại,Luxury,5,story-gallery-offers-process-feature-faq-contact
+WEB-295,Nông nghiệp,Lối Nông trại trải nghiệm,Playful,7,offers-story-process-feature-gallery-faq-contact
+WEB-296,Nông nghiệp,Nhịp Hợp tác xã,Technical,9,offers-feature-process-gallery-story-faq-contact
+WEB-297,Nông nghiệp,Sắc Nông sản chế biến,Warm Modern,11,offers-process-gallery-story-feature-faq-contact
+WEB-298,Nông nghiệp,Thềm Vườn đô thị,Magazine,13,offers-gallery-process-feature-story-faq-contact
+WEB-299,Nông nghiệp,Lá Chuỗi cung ứng nông sản,Monochrome,15,feature-offers-story-process-gallery-faq-contact
+WEB-300,Nông nghiệp,Chạm Nông trại tuần hoàn,Experimental,17,feature-process-story-gallery-offers-faq-contact
