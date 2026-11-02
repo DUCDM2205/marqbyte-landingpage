@@ -1,0 +1,6 @@
+import React,{useRef,useState,useEffect} from 'react';
+import {useReveal} from './shared';
+import Garden from './templates/Garden';import Horizon from './templates/Horizon';import Noi from './templates/Noi';import Bandlab from './templates/Bandlab';import Beyond from './templates/Beyond';import Trail from './templates/Trail';import Art from './templates/Art';import CodePlay from './templates/CodePlay';import Practice from './templates/Practice';import Launch from './templates/Launch';
+const pages={201:Garden,202:Horizon,203:Noi,204:Bandlab,205:Beyond,206:Trail,207:Art,208:CodePlay,209:Practice,210:Launch};
+export default function EducationPage({t}){useReveal();const Page=pages[t.id.slice(3)];return <div className="edu-pilot-scope"><Page/></div>}
+export function EducationThumbnail({t}){const ref=useRef(null);const[w,setW]=useState(320);useEffect(()=>{const ro=new ResizeObserver(([e])=>setW(e.contentRect.width));if(ref.current)ro.observe(ref.current);return()=>ro.disconnect()},[]);return <div className="education-thumbnail" ref={ref} aria-hidden="true" style={{height:w*.66}}><iframe title={'Xem trước '+t.brand} tabIndex={-1} loading="lazy" src={'#/canvas/'+t.id} style={{transform:`scale(${w/1200})`}}/></div>}
